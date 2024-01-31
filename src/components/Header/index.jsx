@@ -6,7 +6,7 @@ export default function index() {
     return (
         <div className={styles.window}>
             <div className={styles.container}>
-                <div className="styles.logo">
+                <div className={styles.logo}>
                     <img src={logo} />
                 </div>
                 <div className={styles.nav}>
