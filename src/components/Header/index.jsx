@@ -2,6 +2,8 @@ import React from 'react'
 import logo from './img/logo.svg'
 import styles from './index.module.css'
 
+
+
 export default function index() {
     return (
         <div className={styles.window}>

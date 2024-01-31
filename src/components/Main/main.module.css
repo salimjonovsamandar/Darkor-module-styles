@@ -21,7 +21,7 @@ body {
   color: var(--Dark, #2a2941);
   font-size: 32px;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 500;
   margin-bottom: 16px;
 }
 .header p {
@@ -124,8 +124,7 @@ ul {
   align-items: center;
   justify-content: space-between;
 }
-.footer .btn {
-}
+
 .orqabtn {
   background-color: red;
   display: flex;
